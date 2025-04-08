@@ -1,0 +1,48 @@
+* {
+    margin:0;
+    padding: 0%;
+    box-sizing: border-box;
+}
+
+h1 {
+    color: rgb(237, 100, 219);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 6rem;
+    flex-direction: column;
+    align-items: center;
+    display: flex;
+
+}
+
+body {
+     background-image: url(https://tse3.mm.bing.net/th?id=OIP.06ZiQXy_1lctvsYvHxz_cwHaE7&pid=Api&P=0&h=180);
+     background-size: cover;
+     background-repeat: no-repeat;
+     min-width: 375px;
+     width: 100%;
+     min-height: 100vh;
+     display: flex;
+     align-items: center;
+     justify-content: start; 
+     flex-direction: column;
+     position: relative;
+     place-content: space-evenly;
+}
+
+p {
+    color:rgb(255, 255, 255);
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 2rem;
+    flex-direction: column;
+    align-items: flex-start;
+    align-items: flex-start;
+    display: flex;
+}
+
+img {
+    height:4in;
+    width: 4in;
+}
+
+
+
